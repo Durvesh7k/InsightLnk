@@ -98,7 +98,7 @@ Contributions to Insightlnk are welcome! If you find any issues or have suggesti
 The Insightlnk project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ## Screenshots
-![Login]<img src"https://github.com/Durvesh7k/InsightLnk/assets/113430857/34046f75-62e1-4497-ad4f-9469840d1f1d" width="200">
-![Homepage]<img src="https://github.com/Durvesh7k/InsightLnk/assets/113430857/96aea784-e5a9-4265-8ee5-3c78e563c691" width='200'>
-![Blogs]<img src="https://github.com/Durvesh7k/InsightLnk/assets/113430857/5d1469c0-46e6-4a9f-9090-e76d5e1434ae" width='200'>
+<img src="https://github.com/Durvesh7k/InsightLnk/assets/113430857/34046f75-62e1-4497-ad4f-9469840d1f1d" width="500">
+<img src="https://github.com/Durvesh7k/InsightLnk/assets/113430857/96aea784-e5a9-4265-8ee5-3c78e563c691" width='500'>
+<img src="https://github.com/Durvesh7k/InsightLnk/assets/113430857/5d1469c0-46e6-4a9f-9090-e76d5e1434ae" width='500'>
 

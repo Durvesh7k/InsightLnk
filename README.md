@@ -8,8 +8,9 @@
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Deployment](#deployment)
-7. [Contributing](#contributing)
-8. [License](#license)
+7. [Images](#images)
+8. [Contributing](#contributing)
+9. [License](#license)
 
 ## 1. Introduction
 
@@ -89,16 +90,20 @@ To deploy the frontend on Vercel:
 3. Configure the build settings for the frontend (if needed).
 4. Deploy the app.
 
-## 7. Contributing
+## 7. Images
+![Login](https://github.com/Durvesh7k/InsightLnk/assets/113430857/34046f75-62e1-4497-ad4f-9469840d1f1d)
+
+![Homepage](https://github.com/Durvesh7k/InsightLnk/assets/113430857/96aea784-e5a9-4265-8ee5-3c78e563c691)
+
+![Blogs](https://github.com/Durvesh7k/InsightLnk/assets/113430857/5d1469c0-46e6-4a9f-9090-e76d5e1434ae)
+
+## 8. Contributing
 
 Contributions to Insightlnk are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request in the GitHub repository.
 
-## 8. License
+## 9. License
 
 The Insightlnk project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
 
-## Screenshots
-<img src="https://github.com/Durvesh7k/InsightLnk/assets/113430857/34046f75-62e1-4497-ad4f-9469840d1f1d" width="500">
-<img src="https://github.com/Durvesh7k/InsightLnk/assets/113430857/96aea784-e5a9-4265-8ee5-3c78e563c691" width='500'>
-<img src="https://github.com/Durvesh7k/InsightLnk/assets/113430857/5d1469c0-46e6-4a9f-9090-e76d5e1434ae" width='500'>
+
 

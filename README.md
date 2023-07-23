@@ -8,9 +8,8 @@
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Deployment](#deployment)
-7. [Images](#images)
-8. [Contributing](#contributing)
-9. [License](#license)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ## 1. Introduction
 
@@ -90,21 +89,11 @@ To deploy the frontend on Vercel:
 3. Configure the build settings for the frontend (if needed).
 4. Deploy the app.
 
-## 7. Images
-![InsightInk - Google Chrome 23-07-2023 14_41_21](https://github.com/Durvesh7k/InsightLnk/assets/113430857/3607b705-a0f6-4744-ba26-0f5adcb9adf1)
-
-![InsightInk - Google Chrome 23-07-2023 14_41_44](https://github.com/Durvesh7k/InsightLnk/assets/113430857/28742c87-ba80-499e-a793-131bebe1a5c6)
-
-![InsightInk - Google Chrome 23-07-2023 15_04_41](https://github.com/Durvesh7k/InsightLnk/assets/113430857/0921ace8-33c1-485e-8568-8bd009049ade)
-
-
-## 8. Contributing
+## 7. Contributing
 
 Contributions to Insightlnk are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request in the GitHub repository.
 
-## 9. License
+## 8. License
 
 The Insightlnk project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-
-
 

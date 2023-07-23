@@ -87,7 +87,7 @@ const UpdatePost = () => {
 
     return (
         <div className='h-max md:h-max flex justify-center'>
-            <div className='mt-6 text-white w-3/4 md:w-1/2 mb-4'>
+            <div className='mt-6 text-white  w-full md:w-1/2 mb-4 mx-4 md:mx-0'>
                 <div>
                     <h3 className='text-lg'>Title</h3>
                     <input value={post.title} onChange={e => onChangeInput(e)} name='title' className='bg-transparent w-full h-12 p-2 outline-none  border-2 rounded-md mt-2 ' placeholder='Title' />

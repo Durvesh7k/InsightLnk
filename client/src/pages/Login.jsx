@@ -91,8 +91,8 @@ const Login = ({ setIsAuthenticated }) => {
               <p className='text-sm mt-8'>Username</p>
               <input onChange={e => onLoginChange(e)} name='userName' type='text' className='h-14 mt-2 rounded-md border-2 outline-none p-2' />
               <p className='text-sm mt-6'>Password</p>
-              <div className='h-14  mt-2 rounded-md border-2 flex flex-row items-center '>
-                <input onChange={e => onLoginChange(e)} type={`${passwordType}`} className='grow outline-none p-2 ' name='password' />
+              <div className='h-14  mt-2 rounded-md border-2 flex flex-row items-center justify-between '>
+                <input onChange={e => onLoginChange(e)} type={`${passwordType}`} className='w-4/6 outline-none p-2 ' name='password' />
                 {passwordType === 'password' ? (
                   <AiFillEye size={30} className='text-gray-600  grow-0 mx-4 cursor-pointer' onClick={() => setPasswordType('text')} />
                 ) : (
@@ -134,8 +134,8 @@ const Login = ({ setIsAuthenticated }) => {
                 onChange={e => onInputChange(e.target)}
               />
               <p className='text-sm mt-6'>Password</p>
-              <div className='h-14  mt-2 rounded-md border-2 flex flex-row items-center '>
-                <input onChange={e => onInputChange(e.target)} type={`${passwordType}`} className='grow outline-none p-2 ' name='password' />
+              <div className='h-14   mt-2 rounded-md border-2 flex flex-row items-center justify-between'>
+                <input onChange={e => onInputChange(e.target)} type={`${passwordType}`} className='w-4/6 outline-none p-2 ' name='password' />
                 {passwordType === 'password' ? (
                   <AiFillEye size={30} className='text-gray-600  grow-0 mx-4 cursor-pointer' onClick={() => setPasswordType('text')} />
                 ) : (

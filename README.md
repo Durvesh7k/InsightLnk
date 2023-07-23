@@ -91,11 +91,12 @@ To deploy the frontend on Vercel:
 4. Deploy the app.
 
 ## 7. Images
-![Login](https://github.com/Durvesh7k/InsightLnk/assets/113430857/34046f75-62e1-4497-ad4f-9469840d1f1d)
+![InsightInk - Google Chrome 23-07-2023 14_41_21](https://github.com/Durvesh7k/InsightLnk/assets/113430857/3607b705-a0f6-4744-ba26-0f5adcb9adf1)
 
-![Homepage](https://github.com/Durvesh7k/InsightLnk/assets/113430857/96aea784-e5a9-4265-8ee5-3c78e563c691)
+![InsightInk - Google Chrome 23-07-2023 14_41_44](https://github.com/Durvesh7k/InsightLnk/assets/113430857/28742c87-ba80-499e-a793-131bebe1a5c6)
 
-![Blogs](https://github.com/Durvesh7k/InsightLnk/assets/113430857/5d1469c0-46e6-4a9f-9090-e76d5e1434ae)
+![InsightInk - Google Chrome 23-07-2023 15_04_41](https://github.com/Durvesh7k/InsightLnk/assets/113430857/0921ace8-33c1-485e-8568-8bd009049ade)
+
 
 ## 8. Contributing
 

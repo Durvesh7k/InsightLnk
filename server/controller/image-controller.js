@@ -15,7 +15,7 @@ conn.once('open', () => {
 
 
 
-const url = ""
+const url = "https://insightlnk.onrender.com"
 
 
 export const uploadImage = (req, res) => {

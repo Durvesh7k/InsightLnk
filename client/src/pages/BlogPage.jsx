@@ -53,9 +53,8 @@ const BlogPage = () => {
                     </div>
                     <span className='mt-2 flex flex-row gap-4'>
                         <Link to={`/update/${post._id}`}>
-                            <AiOutlineEdit className='cursor-pointer hover:text-sky-300' size={25} />
+                            {account.userName === post.userName && <AiOutlineEdit className='cursor-pointer hover:text-sky-300' size={25} />}
                         </Link>
-
                         {account.userName === post.userName && <MdOutlineDelete onClick={() => deleteBlog()} className='cursor-pointer hover:text-sky-300' size={25} /> }
                         
                     </span>

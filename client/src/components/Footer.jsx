@@ -43,7 +43,7 @@ const Footer = () => {
                         <p>© Copyright 2023 - Developed by Durvesh Chopade. All right reserved.</p>
                     </div>
                     <div className='flex justify-center md:justify-normal mt-2 md:mt-0'>
-                        <p>Leave a ⭐ on github repo</p>
+                        <p>Leave a ⭐ on <a className='text-sky-300 underline' href='https://github.com/Durvesh7k/InsightLnk'>github repo</a> </p>
                     </div>
                 </div>
             </div>

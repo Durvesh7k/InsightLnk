@@ -54,26 +54,20 @@ const Login = ({ setIsAuthenticated }) => {
   }
 
   const loginUser = async () => {
-    try {
-      let response = await API.loginUser(login);
-      if (response.isSuccess) {
-        setError('');
-        sessionStorage.setItem("accessToken", `Bearer ${response.data.accessToken}`)
-        sessionStorage.setItem("refreshToken", `Bearer ${response.data.refreshToken}`)
+    let response = await API.loginUser(login);
+    if (response.isSuccess) {
+      setError('');
+      sessionStorage.setItem("accessToken", `Bearer ${response.data.accessToken}`)
+      sessionStorage.setItem("refreshToken", `Bearer ${response.data.refreshToken}`)
 
-        setAccount({ name: response.data.name, userName: response.data.userName })
-        setIsAuthenticated(true);
-        navigate('/');
-      }
-      else {
-        setError("Something went wrong please try again later", error);
-      }
-
-    } catch (e) {
-      console.log("password does not match")
+      setAccount({ name: response.data.name, userName: response.data.userName })
+      setIsAuthenticated(true);
+      navigate('/');
+    }
+    else {
+      setError("Something went wrong please try again later", error);
       setNoMatch(!noMatch)
     }
-
   }
 
   return (

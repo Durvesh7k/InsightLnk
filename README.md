@@ -89,6 +89,13 @@ To deploy the frontend on Vercel:
 3. Configure the build settings for the frontend (if needed).
 4. Deploy the app.
 
+## Screenshots
+![Login](https://github.com/Durvesh7k/InsightLnk/assets/113430857/34046f75-62e1-4497-ad4f-9469840d1f1d)
+
+![Homepage](https://github.com/Durvesh7k/InsightLnk/assets/113430857/96aea784-e5a9-4265-8ee5-3c78e563c691)
+
+![Blogs](https://github.com/Durvesh7k/InsightLnk/assets/113430857/5d1469c0-46e6-4a9f-9090-e76d5e1434ae)
+
 ## 7. Contributing
 
 Contributions to Insightlnk are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request in the GitHub repository.
